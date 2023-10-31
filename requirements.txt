@@ -1,0 +1,6 @@
+pandas
+numpy
+dill
+scikit-learn
+streamlit
+-e .
