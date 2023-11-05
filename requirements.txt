@@ -1,6 +1,7 @@
 pandas
 numpy
-dill
-scikit-learn
+pymongo
 streamlit
+matplotlib
+seaborn
 -e .
